@@ -35,11 +35,5 @@ The dataset used in this project is `stellar_classification.csv`, which contains
 ## Results
 The Light Gradient Boosting Classifier (LightGBM) achieved the highest accuracy of 97.7%, demonstrating the effectiveness of the preprocessing and modeling pipeline.
 
-## How to Run
-1. Clone the repository.
-2. Install the required libraries.
-3. Place the `stellar_classification.csv` file in the project directory.
-4. Run the Jupyter Notebook `stellar-classification-and-supervised-learning.ipynb` to execute the workflow.
-
 ## Acknowledgments
 This project demonstrates the application of machine learning in astronomy, showcasing the importance of data preprocessing, visualization, and model evaluation in achieving high classification accuracy.
