@@ -30,10 +30,10 @@ The dataset used in this project is `stellar_classification.csv`, which contains
    - Trained models such as Random Forest, Linear SVM, and Decision Tree on the preprocessed data.
    - Used cross-validation to validate models like CatBoost and LightGBM.
 5. **Model Evaluation**:
-   - Achieved up to 97.7% accuracy using LightGBM with cross-validation.
+   - Achieved up to 97.56% accuracy using LightGBM with cross-validation.
 
 ## Results
-The Light Gradient Boosting Classifier (LightGBM) achieved the highest accuracy of 97.7%, demonstrating the effectiveness of the preprocessing and modeling pipeline.
+The CatBoostClassifier model achieved the highest accuracy of 97.56%, demonstrating the effectiveness of the preprocessing and modeling pipeline.
 
 ## Acknowledgments
 This project demonstrates the application of machine learning in astronomy, showcasing the importance of data preprocessing, visualization, and model evaluation in achieving high classification accuracy.
